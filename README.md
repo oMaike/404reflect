@@ -1,6 +1,6 @@
 # 404reflect
 
-`404reflect` e uma ferramenta Go para bug bounty autorizada que rastreia um alvo na mesma origem, identifica respostas `404 Not Found` e avisa quando a URL solicitada aparece refletida no codigo fonte da pagina.
+`404reflect` e uma ferramenta Go para bug bounty que rastreia um alvo na mesma origem, identifica respostas `404 Not Found` e avisa quando a URL solicitada aparece refletida no codigo fonte da pagina.
 
 Ela tambem pode sondar um caminho 404 aleatorio em cada diretorio descoberto, o que ajuda a detectar templates de erro que refletem qualquer URL inexistente.
 
