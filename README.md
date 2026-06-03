@@ -52,3 +52,5 @@ Exemplo com wordlist e saida JSONL:
 - `-timeout`: timeout por request.
 - `-json`: imprime achados em JSONL.
 - `-v`: mostra progresso no `stderr`.
+
+  qualquer coisa abre uma issue xD
